@@ -1,1 +1,29 @@
+# 2026-08-12 — Project start
 
+## Done today
+- Defined machine requirements (see docs/requirements.md)
+- Set up sourcing pipeline: Marketplace saved searches for
+  treadmills, mini mills, drill presses, free steel (30 mi radius)
+- Ordered motion components: HGR20 rails (2×500/2×400/2×300 mm,
+  12 blocks), SFU1605 ballscrews (450/350/250 mm) — $XXX, ETA ~3 wk
+
+## Decisions made (and why)
+- Fixed-column, moving-table architecture over gantry: shorter
+  force loop, ~3-5× stiffness needed for steel vs aluminum
+- Epoxy granite fill for damping: mass is the cheapest rigidity,
+  and gravel is free
+- Bought rails/screws instead of scavenging: printer rods can't
+  hold tolerance under steel cutting loads — this is the precision
+  floor of the machine
+
+## Problems / open questions
+- Welder access unconfirmed — bolted+gusset design is the fallback
+- Steel sourcing: need to call Rose Steel (Pinemont) re: surplus
+  drops before Saturday's Triple-S trip
+
+## Next
+- FreeCAD base frame model from cut list
+- Sat: Triple-S Jensen Dr, buy Group A steel (~165 kg)
+
+## Spent
+$XXX (rails/screws) | Running total: $XXX / $1,000 budget
