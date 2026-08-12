@@ -1,2 +1,2 @@
-# homemade_cnc_machine
-Building a CNC macchine capable of working with steel from almost entirely scrap I can find at thrift stores and electronics outlets.
+# homemade_cnc_mill
+A steel-cutting CNC mill built from scavenghed materials - full desgin, FEA, and build documentation.
